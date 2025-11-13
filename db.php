@@ -1,12 +1,11 @@
 <?php
 
-// Copia este archivo a db.php y configura tus credenciales
 
 $host = 'localhost';
 $port = "5432";
-$db = 'tu_base_de_datos';
-$user = 'tu_usuario';
-$pass = 'tu_contraseña';
+$db = 'pruebac';
+$user = 'postgres';
+$pass = '1245';
 
 
 $cone = "pgsql:host=$host; port=$port; dbname=$db; user=$user; password=$pass";
