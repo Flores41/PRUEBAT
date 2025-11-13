@@ -1,0 +1,24 @@
+# Archivos de configuración sensibles
+db.php
+
+# Archivos temporales de Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Archivos del sistema
+.DS_Store
+
+# Logs
+*.log
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Dependencias (si las hay)
+node_modules/
+vendor/
