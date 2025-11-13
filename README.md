@@ -5,7 +5,7 @@
 
 
 1.  **Formulario 1:** Un CRUD simple para la tabla `trabajador`.
-2.  **Formulario 2:** Un CRUD Maestro-Detalle para `venta` y `venta_detalle`, incluyendo la lógica de actualización de totales mediante triggers.
+2.  **Formulario 2:** Un CRUD `venta` y `venta_detalle`, incluyendo la lógica de actualización de totales mediante triggers.
 
 ###  Estructura de Carpetas
 
