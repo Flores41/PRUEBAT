@@ -1,12 +1,11 @@
 # Prueba Técnica - IUVADE SRL
 ## Solución a Formularios CRUD con ExtJS, PHP y PostgreSQL
 
-![Captura del sistema](https://i.ibb.co/FLDtqSsq/screenshot.png)
+![Captura del sistema](https://ibb.co/FLDtqSsq)
 
-Solución completa a la prueba técnica para el puesto de "programador/a web junior". El proyecto incluye:
 
 1.  **Formulario 1:** Un CRUD simple para la tabla `trabajador`.
-2.  **Formulario 2:** Un CRUD Maestro-Detalle para `venta` y `venta_detalle`, incluyendo la lógica de actualización de totales mediante triggers.
+2.  **Formulario 2:** Un CRUD para `venta` y `venta_detalle`, incluyendo la lógica de actualización de totales mediante triggers.
 
 ###  Estructura de Carpetas
 
@@ -18,7 +17,6 @@ Solución completa a la prueba técnica para el puesto de "programador/a web jun
 ---
 
 ###  Script de Base de Datos
-
 
 ```sql
 CREATE SCHEMA prueba;
